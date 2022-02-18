@@ -1,0 +1,150 @@
+320Ban thua
+0Ban thua
+320	226	Ban thang
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+0Ban thua
+javax.swing.JLabel[,0,0,150x19,alignmentX=0.0,alignmentY=0.0,border=javax.swing.plaf.synth.SynthBorder@1a00ff3b,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=0,verticalAlignment=CENTER,verticalTextPosition=CENTER]	0	Ban thua
+120	0	Ban thua
+0	0	Ban thua
+60	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+10	0	Ban thua
+10	0	Ban thua
+10	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+50	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
+0	0	Ban thua
